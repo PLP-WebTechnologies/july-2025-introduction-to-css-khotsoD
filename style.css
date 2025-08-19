@@ -1,0 +1,42 @@
+h1{
+    color: green;
+}
+header {
+  background: hwb(224 22% 35%);
+  text-align: center;
+}
+
+
+p{
+    color: red;
+    padding: 30px;
+    text-align: center;
+
+}
+
+
+
+body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(29, 29, 68);
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+
+        h1 {
+            color: #0056b3;
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.6;
+            text-align: justify;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #d9534f;
+        }
+
+        
